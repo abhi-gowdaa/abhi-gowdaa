@@ -20,7 +20,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-gowdaa&show_icons=true&locale=en&layout=compact" alt="abhi-gowdaa" /></p>
 
 <p align="center"> 
-  Contador de visitas<br>
+  Peekaboo<br>
   <img src="https://profile-counter.glitch.me/abhi-gowdaa/count.svg" />
 </p>
  
